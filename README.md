@@ -39,32 +39,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### High Level Document [Click Hear To Preview HLD](https://drive.google.com/file/d/1l4HA899P1XJLDy7eHjtGzdaKmCdho3iv/view?usp=drive_link)
 
-### Code Splitting
+### Low Level Document [Click Hear To Preview LLD](https://drive.google.com/file/d/1FQdqCugcnE1NpZQf8boSEMf_oKkJeqhs/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Architecture Document Design [Click Hear To Preview LLD](https://drive.google.com/file/d/1O_rJ6qJf2pnimyxQYnHx5DuCNaAef0Y4/view?usp=drive_link)
 
-### Analyzing the Bundle Size
+###  Wireframe Document Design [Click Hear To Preview LLD](https://drive.google.com/file/d/1EiO9SiSY5QRFrk152aBHyKXyIxK9H_p0/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+###  Detailed Project Report [Click Hear To Preview LLD](https://drive.google.com/file/d/1buft4liPUo06DfbOxrHYrRfuwYYu1uH3/view?usp=drive_link)
 
-### Making a Progressive Web App
+###  Project Demo Video [Click Hear To Preview LLD](https://drive.google.com/file/d/1721RobVVEIl4Oy95u55Usf7qQXRoawmL/view?usp=drive_link)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
